@@ -1,0 +1,13 @@
+Underdog is a wrapper and they’re still on invite list. 
+Lm studio works for windows, Gemma 4 e4b is a model I ran many evals on and is small and smart enough for my web search tasks.
+Certainly can do more. There are some smart models liquid ai has released. Gemma 4 26b may be a stretch but something to consider. See what your AI/LLM recommends. 
+you don't need expensive hardware. I have the smallest Mac Studio ultra(96GB)  and I’m working to get the most out of it including even on smaller hardware like my Mac air. People are running local LLM on iPhone too
+
+tiny model writing html files https://huggingface.co/rayline-ai/ARC-1.0
+
+If you want to test local models, run pi. minimal and ideal harness for small models. It’s much more performant and reliable as I found with my own dev work and evals. 
+
+Lm studio for inference engine and server, the 1.7B lfm model (I personally haven’t tried it though). You could download it from hugging face or likely from lm studio directly. And install and setup pi. This will be a Tui instead of gui. I’m gonna switch over to t3 code and that will work across Claude, codex, pi, etc. but not needed for your test. Very nice for managing multiple llm harnesses from one  gui with good ux/ui. 
+
+i found a very accessible way to have private AI. no hardware. verifiable privacy. https://maple.ai/
+i’m gonna run evals and sss how much i can switch over to it
